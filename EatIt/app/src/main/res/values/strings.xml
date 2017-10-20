@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Eat It</string>
+    <string name="slogan">No matter where you are : whether at home or office or on the beach,we will find you and feed you</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
